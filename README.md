@@ -7,7 +7,7 @@ Runs on GitHub Actions every 5 minutes and sends Telegram alerts if any bot is d
 
 | Bot | URL |
 |-----|-----|
-| Tareapp (Chile) | https://tareapp.ags-ed.com/health |
+| Tareapp (Chile) | https://panel.ags-ed.com/health |
 | EducaProject (Peru) | https://webhook.ags-ed.com/health |
 | Trabajos Helper (Argentina) | https://helper.ags-ed.com/health |
 

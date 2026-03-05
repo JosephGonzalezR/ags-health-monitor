@@ -17,7 +17,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           BOTS=(
-            "Tareapp Chile|https://tareapp.ags-ed.com/health"
+            "Tareapp Chile|https://panel.ags-ed.com/health"
             "EducaProject Peru|https://webhook.ags-ed.com/health"
             "Trabajos Helper Argentina|https://helper.ags-ed.com/health"
           )
